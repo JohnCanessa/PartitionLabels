@@ -9,7 +9,7 @@ and return a list of integers representing the size of these parts.
 
 If integersted in the approach I took please read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/10/05/partition-labels-in-java/
 
 Hope you enjoy and learn something.
 It seems that most of the time I do.
